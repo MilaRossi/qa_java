@@ -42,3 +42,5 @@ hs_err_pid*
 /.idea/runConfigurations.xml
 /src/main/java/ru/avtomatizator/SuperLamp.java
 /.idea/vcs.xml
+target
+
