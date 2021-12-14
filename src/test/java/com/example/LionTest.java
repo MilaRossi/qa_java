@@ -14,4 +14,21 @@ public class LionTest {
         assertEquals(expected, actual);
 
     }
+    @Test
+    public void assertThatLionDoesNotHaveMane() throws Exception {
+        Feline feline = new Feline();
+        Lion lion = new Lion("Самка", feline);
+        boolean expected = false;
+        boolean actual = lion.doesHaveMane();
+        assertEquals(expected, actual);
+    }
+
+    @Test
+    public void assertThatLionHasOneKitten() throws Exception{
+        Feline feline = new Feline();
+        Lion lion = new Lion("Самка", feline);
+        int expected = 1;
+        int actual = lion.getKittens();
+        assertEquals(expected, actual);
+    }
 }

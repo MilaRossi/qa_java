@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/src/main/java/org/webinar/Calculator.java
+/src/test/java/org/webinar/CalculatorExceptionTest.java
+/src/test/java/org/webinar/CalculatorTest.java
+/src/main/java/gmail/my/Car.java
+/src/test/java/gmail/my/CarTest.java
+/src/test/java/com/example/CatTest.java
+/.idea/compiler.xml
+/src/main/java/gmail/my/Engine.java
+/src/test/java/gmail/my/EngineTest.java
+/src/main/java/ru/avtomatizator/Example.java
+/src/main/java/org/webinar/FileHelper.java
+/src/test/java/org/webinar/FileHelperTest.java
+/src/main/java/ru/avtomatizator/Fridge.java
+/src/main/java/ru/avtomatizator/HorizontLamp.java
+/src/main/java/ru/avtomatizator/ILamp.java
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/target/classes/read.me
+/.idea/runConfigurations.xml
+/src/main/java/ru/avtomatizator/SuperLamp.java
+/.idea/vcs.xml
